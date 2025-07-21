@@ -1,4 +1,4 @@
-# 🚨 Anomaly Detection in Network Traffic using Unsupervised Learning
+# Anomaly Detection in Network Traffic using Unsupervised Learning
 
 Uncover potential security breaches and system malfunctions by detecting anomalous patterns in network traffic with **Isolation Forests** and **Autoencoders** — all visualized using **Streamlit**.
 
@@ -35,5 +35,4 @@ All results are interactive and visualized in a **Streamlit web app**.
 
 
 
-## 📁 Project Structure
 
